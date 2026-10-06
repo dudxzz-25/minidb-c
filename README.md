@@ -1,5 +1,13 @@
 # MiniDB C
 
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C17-Systems-A8B9CC?logo=c&logoColor=black">
+  <img alt="GCC" src="https://img.shields.io/badge/GCC-Build-333333">
+  <img alt="Make" src="https://img.shields.io/badge/Make-Automation-555555">
+  <a href="https://github.com/dudxzz-25/minidb-c/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/dudxzz-25/minidb-c/actions/workflows/ci.yml/badge.svg"></a>
+</p>
+
+
 [![CI](https://github.com/dudxzz-25/minidb-c/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/minidb-c/actions/workflows/ci.yml)
 
 Mini armazenamento persistente escrito em **C**, utilizando arquivo binário com registros de tamanho fixo e uma interface CRUD por linha de comando.
